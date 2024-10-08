@@ -1,0 +1,7 @@
+my_tuple=(1,2,3,4,5)
+print(len(my_tuple))
+print(max(my_tuple))
+print(min(my_tuple))
+print(id(my_tuple))
+print(type(my_tuple))
+print(sum(my_tuple))
