@@ -76,7 +76,7 @@ def add(*a):
 a=eval(input("Enter your tuple data = "))
 result=add(a)
 print("Your result = ",result)
-#********************************************************************************************************
+
 
 
 
