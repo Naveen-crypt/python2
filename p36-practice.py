@@ -26,4 +26,14 @@
 #     print("your are eligible for voting")
 
 # *********************************************************
-print("dffddffghfd")
+# a="hello"
+# b="python"
+# c=eval('a+b')
+# print(eval('a+b'))
+# print(type(c))
+# **************************************
+
+# check=eval(input(("Enter your expression = ")))
+# print(check)
+# *************************************
+
