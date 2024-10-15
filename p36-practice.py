@@ -208,10 +208,11 @@
 # loly=lambda n: [x for x in range(1,n+1) if x%2==0]
 # print(loly(20))
 
-grade=lambda x:'A'if x>=90 else('B'if x>=80 else('C' if x>=70 else'F'))
-print(grade(88))
-print(grade(93))
-print(grade(23))
+#    GRADE
+# grade=lambda x:'A'if x>=90 else('B'if x>=80 else('C' if x>=70 else'F'))
+# print(grade(88))
+# print(grade(93))
+# print(grade(23))
 
 
 
