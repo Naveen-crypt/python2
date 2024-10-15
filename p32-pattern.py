@@ -1,3 +1,4 @@
+#### PATTERNS
 # # # # # a=int(input("Enter your number of lines you want to print for the pattern = "))
 # # # # # for i in range(0,a):
 # # # # #     print("*"*i)
